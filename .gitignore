@@ -1,0 +1,13 @@
+# Dados de clientes: nunca versionar
+*.xlsx
+*.xls
+*.csv
+*.json
+*.zip
+*.txt
+*Portatil*.html
+Planejamento_semanal_*.html
+Quadro_Gerencial_*.html
+CRM_Gerencial_*.html
+backups-crm/
+relatorios-semanais/
